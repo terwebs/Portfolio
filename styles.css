@@ -246,8 +246,15 @@ svg{
 
   .footer-text{
     color: white;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     text-align: center;
   }
 
+  .contact-header, .section-title, .welcome-section-title{
+    font-size: 2.5rem;
+  }
+
+  .project-image, .project-tile{
+    width: 320px;
+  }
 }
